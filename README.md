@@ -39,9 +39,3 @@ Your job simulation will be evaluated based on the following criteria:
 - Data cleaning and transformation techniques
 - Ability to draw actionable insights from the data
 - Presentation and communication skills
-
-## Contact Information
-
-If you have any questions or encounter issues during the simulation, please reach out to our support team at [support@pwc.ch](mailto:support@pwc.ch).
-
-Best of luck with your PwC Switzerland Job Simulation using Power BI! We look forward to reviewing your analysis and report.
